@@ -1,50 +1,52 @@
-[
-  {
-    "nome" : "Folha KRAFT",
-    "descr" : "Aspecto reciclado, tem várias gramaturas e muito usados em artes e trabalhos escolares."
-  },
-  {
-    "nome" : "Lápis grafite HB",
-    "descr" : "Mais comum de se encontrar, usado para escrita e rabiscos de desenho."
-  },
-  {
-    "nome" : "Lápis grafite 4B",
-    "descr" : "Usado normalmente para sobreamento em desenhos."
-  },
-  {
-    "nome" : "Ponta de lapiseira 0.05mm",
-    "descr" : "Refil de ponta da laseira de tamanho 0.05mm"
-  },
-  {
-    "nome" : "Ponta de lapiseira 0.09mm",
-    "descr" : "Refil de ponta da laseira de tamanho 0.09mm."
-  },
-  {
-    "nome" : "Godê de tinta dobrável",
-    "descr" : "Usado para misturar tintas e guardar elas quando não totalmente utilizadas."
-  },
-  {
-    "nome" : "Pincel redondo n. 2",
-    "descr" : "Usado para detalhes em pinturas. Cerdas sintéticas."
-  },
-  {
-    "nome" : "Pincel redondo n. 4",
-    "descr" : "Absorve mais tinta em suas cerdas, para detalhes maiores."
-  },
-  {
-    "nome" : "Pincel redondo n. 8",
-    "descr" : "Absorve mais tinta em suas cerdas, para áreas grandes."
-  },
-  {
-    "nome" : "Pincel redondo n. 10",
-    "descr" : "Para pintar áreas grandes e fundos de artes."
-  },
-  {
-    "nome" : "Pincel chato n. 2",
-    "descr" : "Suas cerdas retas são feitas para detalhes pequenos."
-  },
-  {
-    "nome" : "Pincel chato n.8",
-    "descr" : "Focado para áreas grandes da pintura."
-  },
-]
+{
+  "lista" : [ 
+                {
+                  "nome" : "Folha KRAFT",
+                  "descr" : "Aspecto reciclado, tem várias gramaturas e muito usados em artes e trabalhos escolares."
+                },
+                {
+                  "nome" : "Lápis grafite HB",
+                  "descr" : "Mais comum de se encontrar, usado para escrita e rabiscos de desenho."
+                },
+                {
+                  "nome" : "Lápis grafite 4B",
+                  "descr" : "Usado normalmente para sobreamento em desenhos."
+                },
+                {
+                  "nome" : "Ponta de lapiseira 0.05mm",
+                  "descr" : "Refil de ponta da laseira de tamanho 0.05mm"
+                },
+                {
+                  "nome" : "Ponta de lapiseira 0.09mm",
+                  "descr" : "Refil de ponta da laseira de tamanho 0.09mm."
+                },
+                {
+                  "nome" : "Godê de tinta dobrável",
+                  "descr" : "Usado para misturar tintas e guardar elas quando não totalmente utilizadas."
+                },
+                {
+                  "nome" : "Pincel redondo n. 2",
+                  "descr" : "Usado para detalhes em pinturas. Cerdas sintéticas."
+                },
+                {
+                  "nome" : "Pincel redondo n. 4",
+                  "descr" : "Absorve mais tinta em suas cerdas, para detalhes maiores."
+                },
+                {
+                  "nome" : "Pincel redondo n. 8",
+                  "descr" : "Absorve mais tinta em suas cerdas, para áreas grandes."
+                },
+                {
+                  "nome" : "Pincel redondo n. 10",
+                  "descr" : "Para pintar áreas grandes e fundos de artes."
+                },
+                {
+                  "nome" : "Pincel chato n. 2",
+                  "descr" : "Suas cerdas retas são feitas para detalhes pequenos."
+                },
+                {
+                  "nome" : "Pincel chato n.8",
+                  "descr" : "Focado para áreas grandes da pintura."
+                },
+              ]
+}
