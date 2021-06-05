@@ -1,5 +1,4 @@
-{
-  "lista" : [ 
+[ 
                 {
                   "nome" : "Folha KRAFT",
                   "descr" : "Aspecto reciclado, tem várias gramaturas e muito usados em artes e trabalhos escolares."
@@ -49,4 +48,4 @@
                   "descr" : "Focado para áreas grandes da pintura."
                 }
               ]
-}
+
