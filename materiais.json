@@ -1,7 +1,7 @@
 [ 
                 {
-                  "nome" : "Refil nanquim vermelho",
-                  "descr" : "Refil de tinta nanquim vermelha."
+                  "nome" : "Folha KRAFT",
+                  "descr" : "Aspecto reciclado, tem várias gramaturas e muito usados em artes e trabalhos escolares."
                 },
                 {
                   "nome" : "Canetas esfereográficas BIC coloridas",
@@ -14,6 +14,14 @@
                 {
                   "nome" : "Giz de cera pastel",
                   "descr" : "Indicado para professores, crianças (supervisionadas por um adulto), artesãos e artistas."
+                },
+                {
+                  "nome" : "Tinta aquarela Van Gogh",
+                  "descr" : "A aquarela da Van Gogh é uma das melhores aquarelas de nível estudante, super elogiada pelos artistas. Seus pigmentos são intensos e vívidos."
+                },
+                {
+                  "nome" : "Giz pastel oleoso",
+                  "descr" : "É um estojo com ótimo custo benefício e uma qualidade super legal pra iniciar no mundo do giz pastel!"
                 }
-              ]
+]
 
